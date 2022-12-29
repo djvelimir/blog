@@ -1,0 +1,4 @@
+baseURL = 'https://djvelimir.github.io/'
+languageCode = 'en-us'
+title = 'Velimir'
+theme = 'ananke'
