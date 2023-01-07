@@ -1,81 +1,25 @@
 ---
 date: 2017-04-09T10:58:08-04:00
-description: "The Grand Hall"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.webp"
+description: "\"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...\""
+featured_image: "/images/hero-image.webp"
 tags: ["scene"]
-title: "Chapter I: The Grand Hall"
+title: "Lorem Ipsum"
 ---
 
-Three hundred and forty-eight years, six months, and nineteen days ago
-to-day, the Parisians awoke to the sound of all the bells in the triple
-circuit of the city, the university, and the town ringing a full peal.
+## What is Lorem Ipsum?
 
-The sixth of January, 1482, is not, however, a day of which history has
-preserved the memory. There was nothing notable in the event which thus
-set the bells and the bourgeois of Paris in a ferment from early morning.
-It was neither an assault by the Picards nor the Burgundians, nor a hunt
-led along in procession, nor a revolt of scholars in the town of Laas, nor
-an entry of “our much dread lord, monsieur the king,” nor even a pretty
-hanging of male and female thieves by the courts of Paris. Neither was it
-the arrival, so frequent in the fifteenth century, of some plumed and
-bedizened embassy. It was barely two days since the last cavalcade of that
-nature, that of the Flemish ambassadors charged with concluding the
-marriage between the dauphin and Marguerite of Flanders, had made its
-entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,
-who, for the sake of pleasing the king, had been obliged to assume an
-amiable mien towards this whole rustic rabble of Flemish burgomasters, and
-to regale them at his Hôtel de Bourbon, with a very “pretty morality,
-allegorical satire, and farce,” while a driving rain drenched the
-magnificent tapestries at his door.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-What put the “whole population of Paris in commotion,” as Jehan de Troyes
-expresses it, on the sixth of January, was the double solemnity, united
-from time immemorial, of the Epiphany and the Feast of Fools.
+## Where does it come from?
 
-On that day, there was to be a bonfire on the Place de Grève, a maypole at
-the Chapelle de Braque, and a mystery at the Palais de Justice. It had
-been cried, to the sound of the trumpet, the preceding evening at all the
-cross roads, by the provost’s men, clad in handsome, short, sleeveless
-coats of violet camelot, with large white crosses upon their breasts.
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
-So the crowd of citizens, male and female, having closed their houses and
-shops, thronged from every direction, at early morn, towards some one of
-the three spots designated.
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 
-Each had made his choice; one, the bonfire; another, the maypole; another,
-the mystery play. It must be stated, in honor of the good sense of the
-loungers of Paris, that the greater part of this crowd directed their
-steps towards the bonfire, which was quite in season, or towards the
-mystery play, which was to be presented in the grand hall of the Palais de
-Justice (the courts of law), which was well roofed and walled; and that
-the curious left the poor, scantily flowered maypole to shiver all alone
-beneath the sky of January, in the cemetery of the Chapel of Braque.
+## Why do we use it?
 
-The populace thronged the avenues of the law courts in particular, because
-they knew that the Flemish ambassadors, who had arrived two days
-previously, intended to be present at the representation of the mystery,
-and at the election of the Pope of the Fools, which was also to take place
-in the grand hall.
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 
-It was no easy matter on that day, to force one’s way into that grand
-hall, although it was then reputed to be the largest covered enclosure in
-the world (it is true that Sauval had not yet measured the grand hall of
-the Château of Montargis). The palace place, encumbered with people,
-offered to the curious gazers at the windows the aspect of a sea; into
-which five or six streets, like so many mouths of rivers, discharged every
-moment fresh floods of heads. The waves of this crowd, augmented
-incessantly, dashed against the angles of the houses which projected here
-and there, like so many promontories, into the irregular basin of the
-place. In the centre of the lofty Gothic* façade of the palace, the grand
-staircase, incessantly ascended and descended by a double current, which,
-after parting on the intermediate landing-place, flowed in broad waves
-along its lateral slopes,—the grand staircase, I say, trickled
-incessantly into the place, like a cascade into a lake. The cries, the
-laughter, the trampling of those thousands of feet, produced a great noise
-and a great clamor. From time to time, this noise and clamor redoubled;
-the current which drove the crowd towards the grand staircase flowed
-backwards, became troubled, formed whirlpools. This was produced by the
-buffet of an archer, or the horse of one of the provost’s sergeants, which
-kicked to restore order; an admirable tradition which the provostship has
-bequeathed to the constablery, the constablery to the _maréchaussée_,
-the _maréchaussée_ to our _gendarmeri_ of Paris.
+## Where can I get some?
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
