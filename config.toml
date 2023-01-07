@@ -2,7 +2,6 @@ title = ""
 baseURL = "https://djvelimir.github.io/"
 languageCode = "en-us"
 theme = "ananke"
-resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
