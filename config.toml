@@ -23,6 +23,10 @@ enableRobotsTXT = true
     title = "Blogi"
     weight = 3
     contentDir = "content/fi"
+  [languages.fr]
+    title = "Blogue"
+    weight = 4
+    contentDir = "content/fr"
 
 [sitemap]
   changefreq = "monthly"
