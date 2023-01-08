@@ -15,6 +15,10 @@ enableRobotsTXT = true
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
+  [languages.ru]
+    title = "Блог"
+    weight = 2
+    contentDir = "content/ru"
 
 [sitemap]
   changefreq = "monthly"
