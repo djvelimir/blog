@@ -1,9 +1,9 @@
 ---
-date: 2017-04-09T10:58:08-04:00
-description: "\"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...\""
-featured_image: "/images/hero-image.webp"
-tags: ["scene"]
 title: "Lorem Ipsum"
+description: ""
+date: 2017-04-09T10:58:08-04:00
+draft: false
+tags: ["scene"]
 ---
 
 ## What is Lorem Ipsum?
