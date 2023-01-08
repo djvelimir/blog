@@ -19,6 +19,10 @@ enableRobotsTXT = true
     title = "Блог"
     weight = 2
     contentDir = "content/ru"
+  [languages.fi]
+    title = "Blogi"
+    weight = 3
+    contentDir = "content/fi"
 
 [sitemap]
   changefreq = "monthly"
