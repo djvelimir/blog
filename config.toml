@@ -1,4 +1,4 @@
-title = ""
+title = "djvelimir.github.io"
 baseURL = "https://djvelimir.github.io/"
 languageCode = "en-us"
 theme = "ananke"
@@ -11,28 +11,22 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Blog"
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
   [languages.ru]
-    title = "Блог"
     weight = 2
     contentDir = "content/ru"
   [languages.fi]
-    title = "Blogi"
     weight = 3
     contentDir = "content/fi"
   [languages.fr]
-    title = "Blogue"
     weight = 4
     contentDir = "content/fr"
   [languages.pt]
-    title = "Blog"
     weight = 5
     contentDir = "content/pt"
   [languages.es]
-    title = "Blog"
     weight = 6
     contentDir = "content/es"
 
