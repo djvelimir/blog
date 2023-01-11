@@ -44,9 +44,35 @@ enableRobotsTXT = true
 [params]
   text_color = ""
   author = ""
-  favicon = ""
+  favicon = "favicon.ico"
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   recent_posts_number = 3
+  
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://linkedin.com/in/djvelimir"
+follow = true
+share = true
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/djvelimir"
+
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://www.youtube.com/@road_to_success"
+
+[[params.ananke_socials]]
+name = "facebook"
+label = "Facebook"
+follow = false
+share = true
+
+[[params.ananke_socials]]
+name = "twitter"
+label = "Twitter"
+follow = false
+share = true
