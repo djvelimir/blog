@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "hugo --minify",
+    "predeploy" : "yarn run build",
+    "deploy" : "gh-pages -d public"
+  },
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
