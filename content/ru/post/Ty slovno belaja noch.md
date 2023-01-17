@@ -5,6 +5,7 @@ featured_image: '/ru/images/hero-image.webp'
 date: 2023-01-11T02:15:05+01:00
 draft: false
 tags: ["Музыка"]
+categories: ["Музыка"]
 ---
 
 {{< youtube P8IWz5HjYsk >}}

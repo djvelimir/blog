@@ -4,7 +4,8 @@ description: ""
 featured_image: '/ru/images/hero-image.webp'
 # date: 2022-12-30T00:52:02+01:00
 draft: false
-tags: ["Музыка", "Алиса Супронова"]
+tags: ["Алиса Супронова"]
+categories: ["Музыка"]
 ---
 
 {{< youtube Hq-AZfBJ794 >}}

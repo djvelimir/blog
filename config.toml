@@ -9,6 +9,10 @@ Paginate = 9
 googleAnalytics = ""
 enableRobotsTXT = true
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [languages]
   [languages.en]
     weight = 1
