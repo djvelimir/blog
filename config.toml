@@ -33,6 +33,9 @@ enableRobotsTXT = true
   [languages.es]
     weight = 6
     contentDir = "content/es"
+  [languages.ja]
+    weight = 7
+    contentDir = "content/ja"
 
 [sitemap]
   changefreq = "monthly"
