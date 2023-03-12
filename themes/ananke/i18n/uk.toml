@@ -32,7 +32,7 @@ other = "Електронна пошта обов'язкова"
 other = "Надіслати"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = "Нижче ви знайдете сторінки, які використовують термін таксономії “{{ .Title }}”"
 
 [pageTitle]
 other = "{{ .Name }} сторінки"
