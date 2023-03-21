@@ -36,11 +36,14 @@ enableRobotsTXT = true
   [languages.es]
     weight = 7
     contentDir = "content/es"
-  [languages.ja]
+  [languages.el]
     weight = 8
+    contentDir = "content/el"
+  [languages.ja]
+    weight = 9
     contentDir = "content/ja"
   [languages.ar]
-    weight = 9
+    weight = 10
     contentDir = "content/ar"
     languageDirection = 'rtl'
 

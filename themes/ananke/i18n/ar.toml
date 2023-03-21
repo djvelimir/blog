@@ -42,7 +42,7 @@ one = "قراءة دقيقة واحدة"
 other = "{{ .Count }} دقائق للقراءة"
 
 [wordCount]
-one = "One word"
+one = "كلمه واحده"
 other = "{{ .Count }} كلمات"
 
 [pageTitle]

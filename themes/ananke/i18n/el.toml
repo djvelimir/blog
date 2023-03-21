@@ -1,0 +1,49 @@
+[more]
+other = "Περισσότερο"
+
+[allTitle]
+other = "Ολα {{.Title }}"
+
+[recentTitle]
+other = "Πρόσφατος {{.Title }}"
+
+[readMore]
+other = "Διαβάστε περισσότερα"
+
+[by]
+other = "Με"
+
+[whatsInThis]
+other = "Τι είναι αυτό {{ .Type }}"
+
+[related]
+other = "Σχετίζεται με"
+
+[yourName]
+other = "Το όνομα σου"
+
+[emailAddress]
+other = "Διεύθυνση ηλεκτρονικού ταχυδρομείου"
+
+[message]
+other = "Μήνυμα"
+
+[emailRequiredNote]
+other = "Απαιτείται μια διεύθυνση ηλεκτρονικού ταχυδρομείου."
+
+[send]
+other = "Στείλετε"
+
+[taxonomyPageList]
+other = "Παρακάτω θα βρείτε σελίδες που χρησιμοποιούν τον όρο ταξινομία “{{ .Title }}”"
+
+[readingTime]
+one = "Διάβασμα ενός λεπτού"
+other = "{{ .Count }} λεπτά διάβασμα"
+
+[wordCount]
+one = "Μια λέξη"
+other = "{{ .Count }} λέξεις"
+
+[pageTitle]
+other = "{{ .Name }} σελίδα"
