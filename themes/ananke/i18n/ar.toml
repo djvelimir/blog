@@ -1,0 +1,49 @@
+[more]
+other = "أكثر"
+
+[allTitle]
+other = "الجميع {{.Title }}"
+
+[recentTitle]
+other = "مؤخرًا {{.Title }}"
+
+[readMore]
+other = "اقرأ أكثر"
+
+[by]
+other = "بواسطة"
+
+[whatsInThis]
+other = "ماذا يوجد في هذا {{ .Type }}"
+
+[related]
+other = "متعلق ب"
+
+[yourName]
+other = "اسمك"
+
+[emailAddress]
+other = "عنوان البريد الإلكتروني"
+
+[message]
+other = "رسالة"
+
+[emailRequiredNote]
+other = "مطلوب عنوان البريد الإلكتروني."
+
+[send]
+other = "أرسل"
+
+[taxonomyPageList]
+other = "ستجد أدناه صفحات تستخدم مصطلح التصنيف “{{ .Title }}”"
+
+[readingTime]
+one = "قراءة دقيقة واحدة"
+other = "{{ .Count }} دقائق للقراءة"
+
+[wordCount]
+one = "One word"
+other = "{{ .Count }} كلمات"
+
+[pageTitle]
+other = "{{ .Name }} صفحة"

@@ -39,6 +39,10 @@ enableRobotsTXT = true
   [languages.ja]
     weight = 8
     contentDir = "content/ja"
+  [languages.ar]
+    weight = 9
+    contentDir = "content/ar"
+    languageDirection = 'rtl'
 
 [sitemap]
   changefreq = "monthly"
