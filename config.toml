@@ -3,7 +3,7 @@ baseURL = "https://djvelimir.github.io/"
 languageCode = "en-us"
 theme = "ananke"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "sr"
 SectionPagesMenu = "main"
 Paginate = 9
 googleAnalytics = ""
@@ -14,36 +14,38 @@ enableRobotsTXT = true
   category = "categories"
 
 [languages]
-  [languages.en]
+  [languages.sr]
     weight = 1
-    contentDir = "content/en"
-    # languageDirection = 'rtl' for Right-To-Left languages
-  [languages.ru]
+    contentDir = "content/sr"
+  [languages.en]
     weight = 2
+    contentDir = "content/en"
+  [languages.ru]
+    weight = 3
     contentDir = "content/ru"
   [languages.uk]
-    weight = 3
+    weight = 4
     contentDir = "content/uk"
   [languages.fi]
-    weight = 4
+    weight = 5
     contentDir = "content/fi"
   [languages.fr]
-    weight = 5
+    weight = 6
     contentDir = "content/fr"
   [languages.pt]
-    weight = 6
+    weight = 7
     contentDir = "content/pt"
   [languages.es]
-    weight = 7
+    weight = 8
     contentDir = "content/es"
   [languages.el]
-    weight = 8
+    weight = 9
     contentDir = "content/el"
   [languages.ja]
-    weight = 9
+    weight = 10
     contentDir = "content/ja"
   [languages.ar]
-    weight = 10
+    weight = 11
     contentDir = "content/ar"
     languageDirection = 'rtl'
 

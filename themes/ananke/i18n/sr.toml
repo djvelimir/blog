@@ -1,0 +1,49 @@
+[more]
+other = "Више"
+
+[allTitle]
+other = "Сви {{.Title }}"
+
+[recentTitle]
+other = "Недавни {{.Title }}"
+
+[readMore]
+other = "читај даље"
+
+[by]
+other = "По"
+
+[whatsInThis]
+other = "What's in this {{ .Type }}"
+
+[related]
+other = "Слично"
+
+[yourName]
+other = "Ваше Име"
+
+[emailAddress]
+other = "Адреса Електронске Поште"
+
+[message]
+other = "Порука"
+
+[emailRequiredNote]
+other = "Адреса електронске поште је обавезна."
+
+[send]
+other = "Пошаљи"
+
+[taxonomyPageList]
+other = "Испод се налазе странице на којима се користи термин таксономије “{{ .Title }}”"
+
+[readingTime]
+one = "Једна минута за читање"
+other = "{{ .Count }} минута за читање"
+
+[wordCount]
+one = "Једна реч"
+other = "{{ .Count }} речи"
+
+[pageTitle]
+other = "{{ .Name }} страница"
