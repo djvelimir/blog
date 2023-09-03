@@ -8,7 +8,7 @@ tags: ["Елена Алферова"]
 categories: ["Музыка"]
 ---
 
-{{< youtube P8IWz5HjYsk >}}
+{{< youtube fqsFJJHRSTc >}}
 
 Ты - словно белая ночь,  
 Рассвет и закат на твоем лице,  
