@@ -17,43 +17,43 @@ enableRobotsTXT = true
   [languages.sr]
     weight = 1
     contentDir = "content/sr"
-  [languages.en]
-    weight = 2
-    contentDir = "content/en"
+#  [languages.en]
+#    weight = 2
+#    contentDir = "content/en"
   [languages.ru]
     weight = 3
     contentDir = "content/ru"
-  [languages.uk]
-    weight = 4
-    contentDir = "content/uk"
-  [languages.fi]
-    weight = 5
-    contentDir = "content/fi"
-  [languages.fr]
-    weight = 6
-    contentDir = "content/fr"
-  [languages.pt]
-    weight = 7
-    contentDir = "content/pt"
-  [languages.es]
-    weight = 8
-    contentDir = "content/es"
-  [languages.el]
-    weight = 9
-    contentDir = "content/el"
-  [languages.it]
-    weight = 10
-    contentDir = "content/it"
-  [languages.de]
-    weight = 11
-    contentDir = "content/de"
-  [languages.ja]
-    weight = 12
-    contentDir = "content/ja"
-  [languages.ar]
-    weight = 13
-    contentDir = "content/ar"
-    languageDirection = 'rtl'
+#  [languages.uk]
+#    weight = 4
+#    contentDir = "content/uk"
+#  [languages.fi]
+#    weight = 5
+#    contentDir = "content/fi"
+#  [languages.fr]
+#    weight = 6
+#    contentDir = "content/fr"
+#  [languages.pt]
+#    weight = 7
+#    contentDir = "content/pt"
+#  [languages.es]
+#    weight = 8
+#    contentDir = "content/es"
+#  [languages.el]
+#    weight = 9
+#    contentDir = "content/el"
+#  [languages.it]
+#    weight = 10
+#    contentDir = "content/it"
+#  [languages.de]
+#   weight = 11
+#    contentDir = "content/de"
+#  [languages.ja]
+#    weight = 12
+#    contentDir = "content/ja"
+#  [languages.ar]
+#    weight = 13
+#    contentDir = "content/ar"
+#    languageDirection = 'rtl'
 
 [sitemap]
   changefreq = "monthly"
@@ -75,7 +75,7 @@ enableRobotsTXT = true
   name = "twitter"
   label = "Twitter"
   follow = false
-  share = true
+  share = false
 
 [[params.ananke_socials]]
   name = "facebook"

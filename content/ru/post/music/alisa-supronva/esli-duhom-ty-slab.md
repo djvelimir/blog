@@ -1,14 +1,14 @@
 ---
 title: "Если Духом Ты Слаб"
 description: ""
-featured_image: '/ru/images/hero-image.webp'
+featured_image: "/ru/images/hero-image.webp"
 # date: 2022-12-30T00:57:28+01:00
 draft: false
 tags: ["Алиса Супронова"]
 categories: ["Музыка"]
 ---
 
-{{< youtube 3OTLpSKtdmI >}}
+{{< youtube SzYSavO_jys >}}
 
 Если духом ты слаб и безмерно собою гордишься,  
 Если славы добиться любыми путями стремишься, -  

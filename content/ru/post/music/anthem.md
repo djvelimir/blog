@@ -1,13 +1,13 @@
 ---
 title: "Госуда́рственный гимн Росси́йской Федера́ции"
 description: ""
-featured_image: '/ru/images/hero-image.webp'
+featured_image: "/ru/images/hero-image.webp"
 date: 2023-04-09T18:08:57+02:00
 draft: false
 tags: []
 ---
 
-{{< youtube DAz7Bdqi2iQ >}}
+{{< youtube njO5NBBJDlE >}}
 
 Россия - священная наша держава,  
 Россия - любимая наша страна.  

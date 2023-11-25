@@ -1,14 +1,14 @@
 ---
 title: "Однажды В Декабре"
 description: ""
-featured_image: '/ru/images/hero-image.webp'
+featured_image: "/ru/images/hero-image.webp"
 date: 2022-12-31T21:29:05+01:00
 draft: false
 tags: ["Алиса Супронова"]
 categories: ["Музыка"]
 ---
 
-{{< youtube aBTAgt0c0Hw >}}
+{{< youtube UhgSGzFw50Y >}}
 
 Как узор на окне  
 Снова прошлое рядом,  

@@ -1,14 +1,14 @@
 ---
 title: "Городу на Неве"
 description: ""
-featured_image: '/ru/images/hero-image.webp'
+featured_image: "/ru/images/hero-image.webp"
 date: 2023-01-21T22:02:50+01:00
 draft: false
 tags: ["7Б"]
 categories: ["Музыка"]
 ---
 
-{{< youtube SSLAdcZdR3s >}}
+{{< youtube _8r_oI1_1yc >}}
 
 Есть город на Неве, я там ещё не разу не был.  
 Есть город на Неве, я там бываю во сне,  

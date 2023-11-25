@@ -1,14 +1,14 @@
 ---
 title: "Человеческий Голос"
 description: ""
-featured_image: '/ru/images/hero-image.webp'
+featured_image: "/ru/images/hero-image.webp"
 # date: 2022-12-29T23:50:31+01:00
 draft: false
 tags: ["Алиса Супронова"]
 categories: ["Музыка"]
 ---
 
-{{< youtube EAaW2HWBiYg >}}
+{{< youtube wvsjCte9RLE >}}
 
 Человек, постой, погоди,  
 Докажи, что ты существуешь не зря!  

@@ -1,13 +1,13 @@
 ---
 title: "Лане Моје"
 description: ""
-featured_image: '/sr/images/hero-image.webp'
+featured_image: "/sr/images/hero-image.webp"
 date: 2023-03-12T03:29:41+01:00
 draft: false
 tags: ["Жељко Јоксимовић"]
 ---
 
-{{< youtube z7OvpjplJ_8 >}}
+{{< youtube 5hZfvNyTUO8 >}}
 
 Кад на те помислим  
 Бојим се да те опет заволим,  
@@ -32,5 +32,4 @@ tags: ["Жељко Јоксимовић"]
 Није важно било с ким,  
 Нађи неког налик мени  
 Да те барем не волим.  
-Да те више не волим.  
-Крај
+Да те више не волим.

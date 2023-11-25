@@ -1,14 +1,14 @@
 ---
 title: "Верные Друзья"
 description: ""
-featured_image: '/ru/images/hero-image.webp'
+featured_image: "/ru/images/hero-image.webp"
 # date: 2022-12-30T01:00:01+01:00
 draft: false
 tags: ["Алиса Супронова"]
 categories: ["Музыка"]
 ---
 
-{{< youtube EjT6Myh2cKA >}}
+{{< youtube OMwvaBvoCBE >}}
 
 Много боли, горя и лишений  
 Нам с тобой сготовила судьба.  

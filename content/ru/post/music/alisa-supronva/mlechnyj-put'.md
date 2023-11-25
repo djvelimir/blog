@@ -1,14 +1,14 @@
 ---
 title: "Млечный Путь"
 description: ""
-featured_image: '/ru/images/hero-image.webp'
+featured_image: "/ru/images/hero-image.webp"
 # date: 2022-12-30T00:40:03+01:00
 draft: false
 tags: ["Алиса Супронова"]
 categories: ["Музыка"]
 ---
 
-{{< youtube MKsFSq0N7U0 >}}
+{{< youtube 2kmTzht9oRA >}}
 
 Ночь темна, в небе виден Млечный путь,  
 И к себе звезды тянут и зовут.  

@@ -1,14 +1,14 @@
 ---
 title: "Герой Не Моего Романа"
 description: ""
-featured_image: '/ru/images/hero-image.webp'
+featured_image: "/ru/images/hero-image.webp"
 # date: 2022-12-30T00:55:59+01:00
 draft: false
 tags: ["Алиса Супронова"]
 categories: ["Музыка"]
 ---
 
-{{< youtube -2I43w4mM9Q >}}
+{{< youtube TW4qvafVWzU >}}
 
 Горели листья в праздничном огне,  
 И осень молча любовалась лесом.  

@@ -1,16 +1,18 @@
 ---
 title: "Моя Струна"
 description: ""
-featured_image: '/ru/images/hero-image.webp'
+featured_image: "/ru/images/hero-image.webp"
 # date: 2022-12-30T00:37:19+01:00
 draft: false
 tags: ["Алиса Супронова"]
 categories: ["Музыка"]
 ---
 
-{{< youtube OXCCKNnTBBE >}}
+{{< youtube 9LIqKD3iicI >}}
 
-Исцелением для раненых душ, эта песня прольется, что сейчас нам слышна..  
+Исцелением для раненых душ,  
+Эта песня прольется,  
+Что сейчас нам слышна..  
 Избавляя от нечисти слух,  
 Отделяя от зла наши сердца.  
 Так лейся, лейся же, песня моя.  

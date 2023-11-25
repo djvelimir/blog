@@ -1,13 +1,13 @@
 ---
 title: "Молитва"
 description: ""
-featured_image: '/sr/images/hero-image.webp'
+featured_image: "/sr/images/hero-image.webp"
 date: 2023-03-12T03:29:42+01:00
 draft: false
 tags: ["Мрија Шерифовић"]
 ---
 
-{{< youtube FSueQN1QvV4 >}}
+{{< youtube McVb9WFsCOs >}}
 
 Ни ока да склопим  
 постеља празна тера сан  

@@ -1,13 +1,13 @@
 ---
 title: "Црвен Цвете"
 description: ""
-featured_image: '/sr/images/hero-image.webp'
+featured_image: "/sr/images/hero-image.webp"
 date: 2023-03-12T03:43:40+01:00
 draft: false
 tags: ["Траг", "Јелена Бојовић"]
 ---
 
-{{< youtube pXA97aTcNqE >}}
+{{< youtube 5CyXZVkHFbM >}}
 
 Хеј црвен цвете прерасла те трава,  
 Пет годиница нисам тебе брала.  

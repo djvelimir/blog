@@ -1,13 +1,13 @@
 ---
 title: "Closer"
 description: ""
-featured_image: '/sr/images/hero-image.webp'
+featured_image: "/sr/images/hero-image.webp"
 date: 2023-03-12T03:29:39+01:00
-draft: false
+draft: true
 tags: ["anime", "Naruto Shippuden"]
 ---
 
-{{< youtube n6FsguAYsQs >}}
+{{< youtube 6n0JOY6auyo >}}
 
 Нисам ли чуо довољно  
 Да срећу чине мале ствари  

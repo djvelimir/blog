@@ -1,14 +1,14 @@
 ---
 title: "Тишина"
 description: ""
-featured_image: '/ru/images/hero-image.webp'
+featured_image: "/ru/images/hero-image.webp"
 # date: 2022-12-30T00:09:57+01:00
 draft: false
 tags: ["Алиса Супронова"]
 categories: ["Музыка"]
 ---
 
-{{< youtube xfdaPIgD23g >}}
+{{< youtube uNCL1p3GxP0 >}}
 
 Как дорога  
 Мне тишина.  

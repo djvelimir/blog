@@ -1,13 +1,13 @@
 ---
 title: "Боже Правде"
 description: ""
-featured_image: '/sr/images/hero-image.webp'
+featured_image: "/sr/images/hero-image.webp"
 date: 2023-04-09T18:08:57+02:00
 draft: false
 tags: []
 ---
 
-{{< youtube OQRiq8FoubQ >}}
+{{< youtube xTy2XZxMzK0 >}}
 
 Боже правде, ти што спасе  
 од пропасти досад нас,  
