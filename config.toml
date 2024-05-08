@@ -1,4 +1,4 @@
-title = "djvelimir.github.io"
+title = "djvelimir.github.io/blog"
 baseURL = "https://djvelimir.github.io/blog/"
 languageCode = "en-us"
 theme = "ananke"
