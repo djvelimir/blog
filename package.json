@@ -1,10 +1,10 @@
 {
   "scripts": {
     "build": "hugo --minify",
-    "predeploy" : "export HUGO_ENV=production && yarn run build",
-    "deploy" : "gh-pages -d public"
+    "predeploy": "export HUGO_ENV=production && yarn run build",
+    "deploy": "gh-pages -d public"
   },
   "dependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^6.1.1"
   }
 }
