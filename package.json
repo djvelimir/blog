@@ -4,7 +4,8 @@
     "predeploy": "export HUGO_ENV=production && yarn run build",
     "deploy": "gh-pages -d public"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "gh-pages": "^6.1.1"
   }
 }
