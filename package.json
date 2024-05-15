@@ -1,7 +1,7 @@
 {
   "scripts": {
     "build": "hugo --minify",
-    "predeploy" : "set HUGO_ENV=production && yarn run build",
+    "predeploy" : "export HUGO_ENV=production && yarn run build",
     "deploy" : "gh-pages -d public"
   },
   "dependencies": {
