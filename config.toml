@@ -7,7 +7,7 @@ DefaultContentLanguage = "sr"
 SectionPagesMenu = "main"
 Paginate = 9
 googleAnalytics = ""
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [taxonomies]
   tag = "tags"
