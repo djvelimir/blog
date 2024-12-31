@@ -50,10 +50,10 @@ enableRobotsTXT = false
   [languages.ja]
     weight = 12
     contentDir = "content/ja"
-#  [languages.ar]
-#    weight = 13
-#    contentDir = "content/ar"
-#    languageDirection = 'rtl'
+  [languages.ar]
+    weight = 13
+    contentDir = "content/ar"
+    languageDirection = 'rtl'
 
 [sitemap]
   changefreq = "monthly"
