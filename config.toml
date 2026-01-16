@@ -1,5 +1,5 @@
 title = "blog"
-baseURL = "https://djvelimir.github.io/blog/"
+baseURL = "https://blog.djvelimir.com/"
 languageCode = "en-us"
 theme = "ananke"
 
