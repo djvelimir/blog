@@ -7,7 +7,7 @@ draft: false
 tags: []
 ---
 
-{{< youtube xTy2XZxMzK0 >}}
+{{< youtube OQRiq8FoubQ >}}
 
 Боже правде, ти што спасе  
 од пропасти досад нас,  

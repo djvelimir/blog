@@ -7,7 +7,7 @@ draft: false
 tags: []
 ---
 
-{{< youtube njO5NBBJDlE >}}
+{{< youtube DAz7Bdqi2iQ >}}
 
 Россия - священная наша держава,  
 Россия - любимая наша страна.  

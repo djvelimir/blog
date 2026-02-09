@@ -8,7 +8,7 @@ tags: ["Алиса Супронова"]
 categories: ["Музыка"]
 ---
 
-{{< youtube 9LIqKD3iicI >}}
+{{< youtube OXCCKNnTBBE >}}
 
 Исцелением для раненых душ,  
 Эта песня прольется,  

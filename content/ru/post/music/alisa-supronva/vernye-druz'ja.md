@@ -8,7 +8,7 @@ tags: ["Алиса Супронова"]
 categories: ["Музыка"]
 ---
 
-{{< youtube OMwvaBvoCBE >}}
+{{< youtube EjT6Myh2cKA >}}
 
 Много боли, горя и лишений  
 Нам с тобой сготовила судьба.  

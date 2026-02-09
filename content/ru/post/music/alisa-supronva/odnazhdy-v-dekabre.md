@@ -8,7 +8,7 @@ tags: ["Алиса Супронова"]
 categories: ["Музыка"]
 ---
 
-{{< youtube UhgSGzFw50Y >}}
+{{< youtube aBTAgt0c0Hw >}}
 
 Как узор на окне  
 Снова прошлое рядом,  
